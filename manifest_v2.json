@@ -1,0 +1,73 @@
+{
+    "item": {
+        "name": "倒数日",
+        "id": "com.cahkcs.daymatter",
+        "restype": "quickapp",
+        "description": "手表上的倒数日：生日、考试、纪念日都记在表上，手机端可以增删改、换背景、按分类筛选。支持农历与闰月、每年 / 每周 / 每月三种重复、置顶与归档、表盘主事件、12 款内置背景图案。事件只存在手表里，不联网。",
+        "icon": "icon.png",
+        "cover": "cover.jpg",
+        "preview": [
+            "preview-1.png",
+            "preview-2.png",
+            "preview-3.png"
+        ],
+        "author": [
+            {
+                "name": "小鱼"
+            }
+        ]
+    },
+    "links": [],
+    "downloads": {
+        "xmb9": {
+            "file_name": "xmb9.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb9p": {
+            "file_name": "xmb9p.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb10": {
+            "file_name": "xmb10.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb10nfc": {
+            "file_name": "xmb10nfc.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb10p": {
+            "file_name": "xmb10p.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb11": {
+            "file_name": "xmb11.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmb11nfc": {
+            "file_name": "xmb11nfc.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmrw5": {
+            "file_name": "xmrw5.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmrw5xring": {
+            "file_name": "xmrw5xring.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        },
+        "xmrw6": {
+            "file_name": "xmrw6.rpk",
+            "version": "3.1",
+            "versionCode": 30101
+        }
+    }
+}
